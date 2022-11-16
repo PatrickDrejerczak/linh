@@ -2,19 +2,19 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "Tam",
-  "short_name": "Tam",
+  "name": "Linh",
+  "short_name": "Linh",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "com.tam.daily"
+      "id": "com.linh.europe"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=com.tam.daily",
-      "id": "com.tam.daily"
+      "url": "http://play.google.com/store/apps/details?id=com.linh.europe",
+      "id": "com.linh.europe"
     }
   ],
   "prefer_related_applications": true,
