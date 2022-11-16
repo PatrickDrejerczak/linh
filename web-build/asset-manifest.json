@@ -1,0 +1,41 @@
+{
+  "files": {
+    "app.js": "/static/js/app.6d4fe7ba.chunk.js",
+    "app.js.map": "/static/js/app.6d4fe7ba.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.27401809.js",
+    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
+    "static/js/2.78e2cf66.chunk.js": "/static/js/2.78e2cf66.chunk.js",
+    "static/js/2.78e2cf66.chunk.js.map": "/static/js/2.78e2cf66.chunk.js.map",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.78e2cf66.chunk.js.LICENSE.txt": "/static/js/2.78e2cf66.chunk.js.LICENSE.txt",
+    "static/media/doggotwo.jpg": "/static/media/doggotwo.acaec461.jpg",
+    "static/media/tammy.jpg": "/static/media/tammy.77023f65.jpg",
+    "static/media/tammyeight.jpg": "/static/media/tammyeight.20905440.jpg",
+    "static/media/tammyeighteen.jpg": "/static/media/tammyeighteen.5a55bc79.jpg",
+    "static/media/tammyeleven.jpg": "/static/media/tammyeleven.3f219eda.jpg",
+    "static/media/tammyfifteen.jpg": "/static/media/tammyfifteen.944ed526.jpg",
+    "static/media/tammyfive.jpg": "/static/media/tammyfive.f4a6193d.jpg",
+    "static/media/tammyfour.jpg": "/static/media/tammyfour.91032c26.jpg",
+    "static/media/tammyfourteen.jpg": "/static/media/tammyfourteen.839eac94.jpg",
+    "static/media/tammynine.jpg": "/static/media/tammynine.493baa76.jpg",
+    "static/media/tammyseven.jpg": "/static/media/tammyseven.d7365dc6.jpg",
+    "static/media/tammyseventeen.jpg": "/static/media/tammyseventeen.5aa96c04.jpg",
+    "static/media/tammysix.jpg": "/static/media/tammysix.2e045aca.jpg",
+    "static/media/tammysixteen.jpg": "/static/media/tammysixteen.ab88cce9.jpg",
+    "static/media/tammyten.jpg": "/static/media/tammyten.8aac0ebc.jpg",
+    "static/media/tammythirteen.jpg": "/static/media/tammythirteen.06e751dd.jpg",
+    "static/media/tammythree.jpg": "/static/media/tammythree.1a806cd3.jpg",
+    "static/media/tammytwelve.jpg": "/static/media/tammytwelve.670ed015.jpg",
+    "static/media/tammytwo.jpg": "/static/media/tammytwo.930c121e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.27401809.js",
+    "static/js/2.78e2cf66.chunk.js",
+    "static/js/app.6d4fe7ba.chunk.js"
+  ]
+}
